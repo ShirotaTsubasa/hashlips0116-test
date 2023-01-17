@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE82DA7cFF4cC7287AA79Ba99d236124be12cc6b6",
+  "SCAN_LINK": "https://polygonscan.com/token/0xE82DA7cFF4cC7287AA79Ba99d236124be12cc6b6",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Hash Lips 0116",
+  "SYMBOL": "HL 0116",
+  "MAX_SUPPLY": 25,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/hash-lips-0116",
+  "SHOW_BACKGROUND": true
+}
